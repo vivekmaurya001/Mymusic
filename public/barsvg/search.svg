@@ -1,0 +1,6 @@
+<svg height="100" width="100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Circle -->
+  <circle cx="40" cy="40" r="20" stroke="white" stroke-width="4" fill="none" />
+  <!-- Handle -->
+  <line x1="55" y1="55" x2="80" y2="80" stroke="white" stroke-width="4" />
+</svg>
